@@ -5,11 +5,11 @@ public class PrimitiveDataTypesDemo {
 //byte takes 1 byte
 		byte byteMax = 127;
 		byte byteMin = -128;
-		System.out.println("Min range of byte is" + byteMin + "Max range of byte is " + byteMax);
+		System.out.println("Min range of byte is " + byteMin + " Max range of byte is " + byteMax);
 //short - 2 bytes
 		short shortMax = 32767;
 		short shortMin = -32768;
-		System.out.println("Minshort range of byte is" + shortMin + "Maxshort range of byte is " + shortMax);
+		System.out.println("Minshort range of byte is " + shortMin + " Maxshort range of byte is " + shortMax);
 //int - 4bytes
 		int maxInt = 2147483647;
 		int minInt = -2147483648;
