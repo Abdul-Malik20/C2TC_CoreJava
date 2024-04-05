@@ -1,4 +1,4 @@
-package com.tns.daythree;
+package com.tns.daythree.encapsulation;
 
 //Program to demonstrate class and object 
 public class EncapsulationDemo {

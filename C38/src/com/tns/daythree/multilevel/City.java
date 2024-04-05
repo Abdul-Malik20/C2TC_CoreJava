@@ -1,4 +1,4 @@
-package com.tns.daythree;
+package com.tns.daythree.multilevel;
 
 public class City extends State {
 	private String cityName;

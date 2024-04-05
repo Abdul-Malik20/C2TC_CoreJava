@@ -1,4 +1,4 @@
-package com.tns.daythree;
+package com.tns.daythree.multilevel;
 
 public class Country {
 	private String countryName;

@@ -1,4 +1,4 @@
-package com.tns.daythree;
+package com.tns.daythree.singleinheritance;
 
 public class Citizen {
 	private String name;
